@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+.venv/
+.venv-1/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
